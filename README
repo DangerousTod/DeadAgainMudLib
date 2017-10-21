@@ -1,0 +1,26 @@
+# Telnet adventure muds maybe out dated...text based adventure games have never been cutting edge, Lol, but they sure
+# are fun! Dead Souls MUD is not a mud that I ever played on. I played on BatMud, Nanveant, Aurora, Realms of the 
+#  Dragon and tested a little of FR (which # does not stand for anything at all--two letter which simply look good
+# together).
+# Anyway, I don't maintain the Dead Souls Mud Lib, Bin or FluffOS driver. You can find that sort of stuff here:
+# http://dead-souls.net/ 
+# This repository will not turn into a MUD all by itself, BUT, IF--I say IF you really want to play this mud as is you
+# can swap these files into your own Dead Souls mud lib--at your own risk. You would do that by adding these head files 
+# in the master commit to your Domain DIR in LIB.
+# Seriously though, it is just a telnet game you are not risking anything.
+# On the other hand, if you want to be a part of DeadAgain MUD get to know the language, get a Beta of your own working,
+# make a branch,and let me know when you have something we can talk about. Reading through closely you will find there 
+#are many instances of suggestions and vague hand-wavium ideas not to mention the expandability of linking to existing 
+# Dead-Souls domains.
+# One TOP PRIORITY TODO is to expand the jungle area, treetop network to canvas the entire MudWorld with ziplines. 
+# Another idea is to play test with strictly level-0 created characters and rewrite for maximized fun. A third NECESSITY 
+# is a thorough investigation of database # needs to support active players.
+# And, ##SPOILER## you can totally build and test AI competition, chatbots, code robots, communication systems, and 
+# weird game-within-a-game ideas.
+# The language involved might be PIKE, but I am honestly not sure, I learned about this stuff in the nineties. I would
+# build and I would play.
+# Let's build and play together.
+#
+# Sincerely, Vulture Elder Admin DeadAgain MUD
+# 10/21/2017
+# 
